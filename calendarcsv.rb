@@ -1,7 +1,7 @@
 class Calendarcsv < Formula
   desc "Export your recent calendar events as csv."
   url "https://codeload.github.com/fuxialexander/calendarcsv/tar.gz/0.1.1"
-  version "0.1.0"
+  version "0.1.1"
   sha256 "" 
 
   def install
